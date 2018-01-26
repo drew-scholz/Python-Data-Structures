@@ -1,2 +1,2 @@
 # Python-Data-Structures
-A basic python data structure library
+Basic python data structures
