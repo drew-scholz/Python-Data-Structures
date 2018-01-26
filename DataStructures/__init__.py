@@ -1,2 +1,2 @@
-# basic Python data structures package
+# basic Python data structures
 # coded by Drew Scholz
